@@ -1,6 +1,6 @@
 # operating-systems
 
-This repository contains all my assignments done through my uni course on Operating Systems.
+This repository contains all the assignments done through my uni course on Operating Systems.
 
 ## Structure
 
